@@ -22,7 +22,7 @@ console.log("Modulo:", modulo);
 
 //-------------------------------2---------------//
 
-onsole.log("ASD");
+console.log("ASD");
 
 let transfDias = +prompt("Colocar un numero de dias para transformar");
 
@@ -31,7 +31,7 @@ let anos = Math.floor(transfDias / 365);
 let sobrante1 = transfDias % 365;
 let semanas = Math.floor(sobrante1 / 7);
 let sobrante2 = sobrante1 % 7;
-let dias = remanente2;
+let dias = sobrante2;
 
 console.log(
   "Los dias son equivalentes a:",
