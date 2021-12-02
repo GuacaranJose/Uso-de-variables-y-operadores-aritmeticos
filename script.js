@@ -1,6 +1,6 @@
 //--------------------------1-------------------//
 
-console.log("smdmm");
+console.log("srdmm");
 
 
 let numero1 = +prompt("Ingresa numero 1 > 0");
