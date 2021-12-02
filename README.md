@@ -1,1 +1,1 @@
-# Uso-de-variables-y-operadores-aritm-ticos
+Uso de Variables y operadores aritmeticos
